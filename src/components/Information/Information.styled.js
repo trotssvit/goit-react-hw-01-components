@@ -3,10 +3,9 @@ import styled from 'styled-components';
 export const List = styled.ul`
   display: flex;
   list-style: none;
-  background-color: gray;
+  background-color: pink;
   justify-content: space-around;
-  padding: 0px;
-  padding-top: 10px;
+  padding: 8px;
   margin: 0;
 `;
 

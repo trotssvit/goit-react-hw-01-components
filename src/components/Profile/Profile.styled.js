@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Avatar = styled.img`
   display: block;
-  width: 100px;
+  width: 200px;
   margin: auto;
   border-radius: 50%;
   background-color: white;
